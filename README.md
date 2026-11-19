@@ -55,17 +55,4 @@
       <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td align="center"><b>Libraries</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-      <img src="https://img.shields.io/badge/OAuth2%20%2F%20JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-    </td>
-  </tr>
 </table>
