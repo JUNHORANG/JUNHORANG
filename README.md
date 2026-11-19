@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 </p>
+
 ### AI
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
